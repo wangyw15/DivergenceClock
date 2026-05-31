@@ -1,0 +1,7 @@
+#meter {
+    display: flex;
+}
+
+#meter>img {
+    height: 200px;
+}
